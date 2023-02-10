@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Lokeswaran Aruljothy, a Software Engineer at Thoughtworks. I love to **build** stuffs 💻 I believe in learn by contributing, so I have started to contribute to projects that is solving **interesting problem** or use **technologies** I m interested in.
+🎓 I am Lokeswaran Aruljothy, a Software Engineer at Thoughtworks. I love to **build** stuffs 💻 I believe in learn by building, so I have started to contribute to projects that are solving **interesting problem** or use **technologies** I m interested in.
 
 🎸 Outside the world of tech too, I enjoy going to gym as a habit to maintain my physique and travel occasionally to hill stations.
 
