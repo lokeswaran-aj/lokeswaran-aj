@@ -58,8 +58,10 @@
 
 ## 📈 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeswaran-aj&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lokeswaran-aj&show_icons=true&hide_border=true" alt="Lokeswaran aruljothi's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lokeswaran-aj&show_icons=true&hide_border=true&theme=radical" alt="Lokeswaran aruljothi's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lokeswaran-aj.lokeswaran-aj" alt="visitors">
 </div>
