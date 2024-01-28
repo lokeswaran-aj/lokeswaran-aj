@@ -56,19 +56,10 @@
 ![consul](https://img.shields.io/badge/consul-F24C53?style=for-the-badge&logo=consul&logoColor=white)
 ![nomad](https://img.shields.io/badge/nomad-C11920?style=for-the-badge&logo=nomad&logoColor=white)
 
-## 📈 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeswaran-aj&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lokeswaran-aj&show_icons=true&hide_border=true&theme=radical" alt="Lokeswaran aruljothi's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lokeswaran-aj.lokeswaran-aj" alt="visitors">
-</div>
 
 ## 🔗 Links
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1a6sP_y6cJ4w3dE8x_3OLyVHSOp18EV7V/view)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lokeswaran-aj/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lokeswaran-aj)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:11lokeswaran@gamil.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lokeswaranaruljothy@gamil.com)
